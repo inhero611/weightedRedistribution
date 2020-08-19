@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 22 11:49:33 2020
 
-@author: 10414926
-"""
 from sys import exit
 from math import hypot, sqrt，pi
 from numpy import linspace, zeros
